@@ -1,0 +1,28 @@
+name: Tesla
+favicon: null
+layout_spectrum: 0.5767799993045628
+typography_spectrum: 0.428179276175797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2369418537709862
+  lightness: 0.6961729524191469
+  saturation: 0.12551233475096524
+  rhythmicContrast: 0.5202949785161763
+purpose: []
